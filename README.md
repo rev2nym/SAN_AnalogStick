@@ -6,6 +6,10 @@
 接続されたゲームパッドのうち最も傾きの大きいゲームパッドの
 アナログスティック値を採用します。
 
+## 使い方
+次のリンク先のファイルを保存してプラグインとして適用してください。
+https://raw.githubusercontent.com/rev2nym/SAN_AnalogStick/master/js/plugins/SAN_AnalogStick.js
+
 ## 入力値の取得
 次のスクリプトで入力値を取得します。
 `dir`がスティックの傾き方向を表し、`tilt`がスティックの傾き加減を表します。  
